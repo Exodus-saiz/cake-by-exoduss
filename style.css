@@ -1,0 +1,11 @@
+body{margin:0;font-family:'Rubik Puddles',cursive;background:#fff7ef}
+header{background:#7B3F00;color:#F1C40F;padding:20px;text-align:center}
+.hero{background:#3a1f0f;color:white;padding:60px;text-align:center}
+.cakes{text-align:center;padding:40px}
+.grid{display:flex;flex-wrap:wrap;justify-content:center;gap:20px}
+.card{border:3px solid #F1C40F;padding:10px;width:220px;background:white}
+.card img{width:100%}
+.order{text-align:center;padding:40px;background:#f3e1c6}
+.order input{display:block;margin:10px auto;padding:10px;width:80%}
+button{padding:12px 30px;background:#2ECC71;color:white;border:none;font-size:16px}
+footer{background:#7B3F00;color:white;text-align:center;padding:15px}
